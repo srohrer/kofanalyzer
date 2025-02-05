@@ -1,0 +1,6 @@
+_pycache_
+data
+venv
+videos
+.env
+*.png
