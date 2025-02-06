@@ -164,14 +164,12 @@ class KOFAnalyzer:
         # Continue with original scene detection
         scenes = detect(video_path, detector)
         
-        # Process scenes to identify rounds
+        round_is_going = False
+        current_round_info = None
+        
         for i, scene in enumerate(scenes):
             start_time = scene[0].get_seconds()
             end_time = scene[1].get_seconds()
-            
-            # Skip very short scenes (less than 3 seconds) as they're likely not full rounds
-            if end_time - start_time < 3:
-                continue
             
             # Load a frame from middle of scene for analysis
             cap = cv2.VideoCapture(video_path)
@@ -180,12 +178,48 @@ class KOFAnalyzer:
             ret, frame = cap.read()
             cap.release()
             
-            if ret:
-                # Get round details using the frame from middle of scene
-                round_details = self.get_round_details(start_time, end_time, frame, title_players)
-                rounds.append(round_details)
+            if not ret:
+                continue
+            
+            if not round_is_going:
+                # Ask Anthropic API if this is a new round
+                start_check_time = start_time + 1;
+                cap = cv2.VideoCapture(video_path)
+                cap.set(cv2.CAP_PROP_POS_MSEC, start_check_time * 1000)
+                is_new_round, round_info = self._ask_if_new_round(frame)
+                if is_new_round:
+                    round_is_going = True
+                    current_round_info = round_info
+                    current_round_info['start_time'] = start_time
+            else:
+                # Check if this is the end of a round
+                end_check_time = max(0, end_time - 2)
+                cap = cv2.VideoCapture(video_path)
+                cap.set(cv2.CAP_PROP_POS_MSEC, end_check_time * 1000)
+                ret, frame = cap.read()
+                cap.release()
+                
+                if ret:
+                    is_end_of_round, winner = self._ask_if_end_of_round(frame)
+                    if is_end_of_round:
+                        current_round_info['end_time'] = end_time
+                        current_round_info['winner'] = winner
+                        rounds.append(Round(**current_round_info))
+                        round_is_going = False
 
         return rounds
+
+    def _ask_if_new_round(self, frame) -> (bool, dict):
+        # Placeholder for calling Anthropic API to determine if this is a new round
+        # Return a tuple (is_new_round, round_info)
+        # round_info should be a dictionary with keys: 'player1', 'player2', 'character1', 'character2'
+        pass
+
+    def _ask_if_end_of_round(self, frame) -> (bool, str):
+        # Placeholder for calling Anthropic API to determine if this is the end of a round
+        # Return a tuple (is_end_of_round, winner)
+        # winner should be "p1" or "p2"
+        pass
 
 # Example usage
 if __name__ == "__main__":
