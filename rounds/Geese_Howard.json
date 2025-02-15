@@ -1,0 +1,72 @@
+[
+  {
+    "start_time": 1090.8666666666666,
+    "end_time": 1138.7666666666667,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Geese Howard",
+    "character2": "Chizuru Kagura",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_1090"
+  },
+  {
+    "start_time": 4595.1,
+    "end_time": 4642.633333333333,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Yuri Sakazaki",
+    "character2": "Geese Howard",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_4595"
+  },
+  {
+    "start_time": 4987.333333333333,
+    "end_time": 5025.866666666667,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Rock Howard",
+    "character2": "Geese Howard",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_4987"
+  },
+  {
+    "start_time": 7480.966666666666,
+    "end_time": 7533.066666666667,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Meitenkun",
+    "character2": "Geese Howard",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_7480"
+  },
+  {
+    "start_time": 8371.366666666667,
+    "end_time": 8409.7,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Geese Howard",
+    "character2": "Yuri Sakazaki",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_8371"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "start_time": 581.7333333333333,
+    "end_time": 613.9333333333333,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Benimaru Nikaido",
+    "character2": "Iori Yagami",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_581"
+  },
+  {
+    "start_time": 3212.0333333333333,
+    "end_time": 3265.5333333333333,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Benimaru Nikaido",
+    "character2": "Kyo Kusanagi",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_3212"
+  },
+  {
+    "start_time": 3947.366666666667,
+    "end_time": 3975.9666666666667,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Benimaru Nikaido",
+    "character2": "Meitenkun",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_3947"
+  },
+  {
+    "start_time": 4187.433333333333,
+    "end_time": 4238.0,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Benimaru Nikaido",
+    "character2": "Isla",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_4187"
+  },
+  {
+    "start_time": 4242.066666666667,
+    "end_time": 4284.333333333333,
+    "player1": "Laudandus",
+    "player2": "Pinecone",
+    "character1": "Benimaru Nikaido",
+    "character2": "Blue Mary",
+    "winner": "unknown",
+    "start_probs": null,
+    "end_probs": null,
+    "video_id": "6CeXzKANvdo",
+    "upload_date": "2025-01-26T09:53:01Z",
+    "round_id": "6CeXzKANvdo_4242"
+  }
+]

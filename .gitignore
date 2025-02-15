@@ -1,6 +1,15 @@
-_pycache_
+__pycache__/
 data
 venv
 videos
 .env
 *.png
+*.pyc
+screenshots
+trainingdata
+*.zip
+*.mp4
+*.jpg
+debug/
+.ipynb_checkpoints/
+completedvideos/
