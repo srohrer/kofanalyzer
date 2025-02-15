@@ -13,3 +13,5 @@ trainingdata
 debug/
 .ipynb_checkpoints/
 completedvideos/
+*.json
+rounds/
