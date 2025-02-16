@@ -1,5 +1,6 @@
 import cv2
 from dataclasses import dataclass
+from moviepy import VideoFileClip, concatenate_videoclips
 
 @dataclass
 class TimeInterval:
@@ -25,57 +26,48 @@ def seek_frame(video: cv2.VideoCapture, end_timestamp: float) -> None:
 
 def stitch_video_segments(video_intervals: dict[str, list[TimeInterval]], output_path: str) -> str:
     """
-    Stitches together the given time intervals from multiple videos into a single output video.
-
-    :param video_intervals: A dictionary where each key is a path to a video file,
-                            and each value is a list of TimeInterval objects (with .start and .end in seconds).
-    :param output_path: Path to the output stitched video file.
-    :return: The path to the stitched video.
+    Stitches together the given time intervals from multiple videos into
+    a single output video *with audio* using MoviePy.
     """
     if not video_intervals:
         raise ValueError("video_intervals dictionary is empty.")
 
-    # Pick the first video path to determine output video properties.
-    first_video_path, first_intervals = next(iter(video_intervals.items()))
-    first_video = cv2.VideoCapture(first_video_path)
-    if not first_video.isOpened():
-        raise IOError(f"Could not open video file: {first_video_path}")
-
-    # Get the video properties from the first file.
-    fps = first_video.get(cv2.CAP_PROP_FPS)
-    width = int(first_video.get(cv2.CAP_PROP_FRAME_WIDTH))
-    height = int(first_video.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    first_video.release()
-
-    # Create a VideoWriter for the stitched output video.
-    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-    writer = cv2.VideoWriter(output_path, fourcc, fps, (width, height))
-
-    # Go through each video and each of its intervals to stitch frames.
+    subclips = []
     for video_path, intervals in video_intervals.items():
-        video = cv2.VideoCapture(video_path)
-        if not video.isOpened():
-            print(f"warning: Could not open {video_path}, skipping...")
-            continue
-
         for interval in intervals:
-            # Seek to the start of the interval
-            seek_frame(video, interval.start)
+            # Load entire video in memory for this snippet. If the videos are large,
+            # you may want to call close() on each clip after concatenation
+            clip = VideoFileClip(video_path).subclipped(interval.start, interval.end)
+            subclips.append(clip)
 
-            while True:
-                current_pos = video.get(cv2.CAP_PROP_POS_MSEC) / 1000.0
-                if current_pos >= interval.end:
-                    break
+    if not subclips:
+        raise ValueError("No valid intervals found to stitch.")
 
-                ret, frame = video.read()
-                if not ret:
-                    # Reached end of video or couldn't read frame
-                    break
+    # Concatenate all subclips
+    final_clip = concatenate_videoclips(subclips)
 
-                writer.write(frame)
+    # Write out the final clip (includes audio)
+    final_clip.write_videofile(output_path, codec="libx264", audio_codec="aac")
 
-        video.release()
+    for clip in subclips:
+        clip.close()
+    final_clip.close()
 
-    # Release the writer once done stitching all intervals.
-    writer.release()
     return output_path
+
+def make_debug_screenshot_filepath(video_id: str, start_time: float, end: bool = False) -> str:
+    """
+    Create a debug screenshot filepath from a video id and round start time.
+    """
+    import datetime
+    import os
+
+    # Ensure debug directory exists
+    os.makedirs('debug', exist_ok=True)
+
+    # Convert seconds to HH:MM:SS format and replace colons with underscores
+    timestamp = str(datetime.timedelta(seconds=int(start_time))).replace(":", "_")
+    if end:
+        return f'debug/{video_id}.{timestamp}_end.jpg'
+    else:
+        return f'debug/{video_id}.{timestamp}.jpg'

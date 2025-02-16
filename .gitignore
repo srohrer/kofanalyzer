@@ -13,5 +13,9 @@ trainingdata
 debug/
 .ipynb_checkpoints/
 completedvideos/
+legacyvideos/
 *.json
 rounds/
+*.pkl
+rounds/
+misclassified_screenshots/

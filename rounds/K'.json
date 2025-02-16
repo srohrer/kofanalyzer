@@ -1,16 +1,16 @@
 [
   {
-    "start_time": 1782.1333333333334,
-    "end_time": 1833.9666666666667,
+    "round_id": "SoUbQGWz6Yg_780",
+    "start_time": 780.4666666666667,
+    "end_time": 829.3,
     "player1": "Laudandus",
     "player2": "Pinecone",
-    "character1": "K'",
-    "character2": "Kula Diamond",
+    "character1": "Ryo Sakazaki",
+    "character2": "K'",
     "winner": "unknown",
     "start_probs": null,
     "end_probs": null,
-    "video_id": "6CeXzKANvdo",
-    "upload_date": "2025-01-26T09:53:01Z",
-    "round_id": "6CeXzKANvdo_1782"
+    "video_id": "SoUbQGWz6Yg",
+    "upload_date": "2024-07-01T01:11:09Z"
   }
 ]

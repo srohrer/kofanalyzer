@@ -1,0 +1,6591 @@
+Scene start: 0:00:00
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:00:26
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 0.997
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:00:29
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.195
+
+probs: end 0.038
+probs: end 0.031
+probs: end 0.098
+probs: end 0.099
+probs: end 0.167
+probs: end 0.074
+probs: end 0.157
+probs: end 0.215
+probs: end 0.082
+probs: end 0.214
+probs: end 0.171
+probs: end 0.305
+probs: end 0.398
+probs: end 0.117
+probs: end 0.184
+probs: end 0.116
+probs: end 0.295
+probs: end 0.098
+probs: end 0.088
+probs: end 0.031
+probs: end 0.056
+probs: end 0.068
+probs: end 0.165
+probs: end 0.237
+probs: end 0.255
+probs: end 0.214
+probs: end 0.037
+probs: end 0.331
+probs: end 0.876
+probs: end 0.633
+
+
+Scene start: 0:00:33
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.128
+
+probs: end 0.040
+probs: end 0.004
+probs: end 0.015
+probs: end 0.009
+probs: end 0.006
+probs: end 0.022
+probs: end 0.001
+probs: end 0.004
+probs: end 0.096
+probs: end 0.000
+probs: end 0.000
+probs: end 0.042
+probs: end 0.050
+probs: end 0.001
+probs: end 0.023
+probs: end 0.348
+probs: end 0.028
+probs: end 0.429
+probs: end 0.082
+probs: end 0.384
+probs: end 0.783
+probs: end 0.293
+probs: end 0.574
+probs: end 0.390
+probs: end 0.101
+probs: end 0.035
+probs: end 0.003
+probs: end 0.002
+probs: end 0.081
+probs: end 0.003
+
+
+Scene start: 0:00:39
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.029
+
+probs: end 0.001
+probs: end 0.012
+probs: end 0.010
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.038
+probs: end 0.006
+probs: end 0.001
+probs: end 0.009
+probs: end 0.002
+probs: end 0.005
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.012
+probs: end 0.263
+probs: end 0.021
+probs: end 0.276
+probs: end 0.135
+probs: end 0.014
+probs: end 0.032
+probs: end 0.000
+probs: end 0.011
+probs: end 0.001
+
+
+Scene start: 0:00:42
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.107
+
+probs: end 0.020
+probs: end 0.217
+probs: end 0.022
+probs: end 0.021
+probs: end 0.051
+probs: end 0.148
+probs: end 0.115
+probs: end 0.032
+probs: end 0.198
+probs: end 0.007
+probs: end 0.130
+probs: end 0.006
+probs: end 0.033
+probs: end 0.070
+probs: end 0.012
+probs: end 0.051
+probs: end 0.192
+probs: end 0.248
+probs: end 0.555
+probs: end 0.570
+probs: end 0.133
+probs: end 0.000
+probs: end 0.037
+probs: end 0.104
+probs: end 0.009
+probs: end 0.059
+probs: end 0.010
+probs: end 0.017
+probs: end 0.127
+probs: end 0.003
+
+
+Scene start: 0:00:43
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:00:44
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.119
+
+probs: end 0.026
+probs: end 0.052
+probs: end 0.037
+probs: end 0.005
+probs: end 0.016
+probs: end 0.026
+probs: end 0.043
+probs: end 0.094
+probs: end 0.001
+probs: end 0.055
+probs: end 0.011
+probs: end 0.034
+probs: end 0.711
+probs: end 0.433
+probs: end 0.255
+probs: end 0.108
+probs: end 0.075
+probs: end 0.272
+probs: end 0.192
+probs: end 0.450
+probs: end 0.112
+probs: end 0.107
+probs: end 0.291
+probs: end 0.016
+probs: end 0.000
+probs: end 0.001
+probs: end 0.146
+probs: end 0.005
+probs: end 0.002
+probs: end 0.004
+
+
+Scene start: 0:00:49
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.061
+
+probs: end 0.004
+probs: end 0.024
+probs: end 0.003
+probs: end 0.004
+probs: end 0.000
+probs: end 0.018
+probs: end 0.249
+probs: end 0.275
+probs: end 0.107
+probs: end 0.004
+probs: end 0.028
+probs: end 0.039
+probs: end 0.381
+probs: end 0.003
+probs: end 0.003
+probs: end 0.009
+probs: end 0.013
+probs: end 0.003
+probs: end 0.071
+probs: end 0.048
+probs: end 0.040
+probs: end 0.465
+probs: end 0.001
+probs: end 0.023
+probs: end 0.004
+probs: end 0.001
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+
+
+Scene start: 0:00:51
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.074
+
+probs: end 0.011
+probs: end 0.002
+probs: end 0.001
+probs: end 0.006
+probs: end 0.011
+probs: end 0.003
+probs: end 0.271
+probs: end 0.066
+probs: end 0.061
+probs: end 0.047
+probs: end 0.005
+probs: end 0.006
+probs: end 0.051
+probs: end 0.140
+probs: end 0.002
+probs: end 0.085
+probs: end 0.004
+probs: end 0.147
+probs: end 0.010
+probs: end 0.304
+probs: end 0.002
+probs: end 0.144
+probs: end 0.771
+probs: end 0.032
+probs: end 0.001
+probs: end 0.001
+probs: end 0.008
+probs: end 0.000
+probs: end 0.036
+probs: end 0.006
+
+
+Scene start: 0:00:53
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.149
+probs: end 0.005
+probs: end 0.028
+probs: end 0.004
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.078
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:00:58
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.123
+
+probs: end 0.005
+probs: end 0.015
+probs: end 0.004
+probs: end 0.046
+probs: end 0.004
+probs: end 0.061
+probs: end 0.003
+probs: end 0.007
+probs: end 0.404
+probs: end 0.782
+probs: end 0.362
+probs: end 0.034
+probs: end 0.180
+probs: end 0.006
+probs: end 0.018
+probs: end 0.568
+probs: end 0.082
+probs: end 0.239
+probs: end 0.454
+probs: end 0.148
+probs: end 0.049
+probs: end 0.047
+probs: end 0.103
+probs: end 0.032
+probs: end 0.014
+probs: end 0.000
+probs: end 0.013
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+
+
+Scene start: 0:01:00
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.004
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.009
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.005
+probs: end 0.000
+probs: end 0.006
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.026
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.050
+probs: end 0.000
+probs: end 0.009
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.018
+
+
+Scene start: 0:01:09
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.006
+
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.009
+probs: end 0.024
+probs: end 0.001
+probs: end 0.025
+probs: end 0.004
+probs: end 0.010
+probs: end 0.003
+probs: end 0.023
+probs: end 0.034
+probs: end 0.024
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.002
+
+
+Scene start: 0:01:10
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.007
+
+probs: end 0.005
+probs: end 0.000
+probs: end 0.016
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.005
+probs: end 0.043
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.003
+probs: end 0.016
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.058
+probs: end 0.005
+probs: end 0.002
+probs: end 0.007
+probs: end 0.002
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.004
+probs: end 0.009
+probs: end 0.003
+
+
+Scene start: 0:01:11
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.014
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.005
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.010
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:01:13
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.007
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.003
+probs: end 0.020
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.030
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.010
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.012
+probs: end 0.002
+probs: end 0.003
+probs: end 0.125
+probs: end 0.000
+
+
+Scene start: 0:01:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.043
+
+probs: end 0.053
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.003
+probs: end 0.007
+probs: end 0.001
+probs: end 0.013
+probs: end 0.059
+probs: end 0.000
+probs: end 0.004
+probs: end 0.003
+probs: end 0.003
+probs: end 0.004
+probs: end 0.023
+probs: end 0.002
+probs: end 0.002
+probs: end 0.026
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.077
+probs: end 0.002
+probs: end 0.141
+probs: end 0.007
+probs: end 0.003
+probs: end 0.371
+probs: end 0.496
+
+
+Scene start: 0:01:19
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.903
+
+probs: end 0.999
+probs: end 1.000
+probs: end 0.997
+probs: end 0.997
+probs: end 0.998
+probs: end 0.998
+probs: end 0.999
+probs: end 0.999
+probs: end 1.000
+probs: end 0.999
+probs: end 0.999
+probs: end 0.999
+probs: end 0.997
+probs: end 0.998
+probs: end 0.998
+probs: end 0.995
+probs: end 0.997
+probs: end 0.996
+probs: end 0.984
+probs: end 0.995
+probs: end 0.999
+probs: end 0.996
+probs: end 0.997
+probs: end 0.999
+probs: end 0.972
+probs: end 0.963
+probs: end 0.849
+probs: end 0.144
+probs: end 0.173
+probs: end 0.038
+
+
+Scene start: 0:01:21
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:01:25
+In round: False
+Mean round after: 0.806
+Mean not round after: 0.194
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 0.063
+probs: round 0.001
+probs: round 1.000
+
+
+Scene start: 0:01:26
+In round: False
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:01:29
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:01:32
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.231
+
+probs: end 0.751
+probs: end 0.105
+probs: end 0.611
+probs: end 0.018
+probs: end 0.018
+probs: end 0.002
+probs: end 0.935
+probs: end 0.063
+probs: end 0.087
+probs: end 0.117
+probs: end 0.243
+probs: end 0.086
+probs: end 0.001
+probs: end 0.041
+probs: end 0.025
+probs: end 0.026
+probs: end 0.218
+probs: end 0.711
+probs: end 0.619
+probs: end 0.562
+probs: end 0.145
+probs: end 0.761
+probs: end 0.059
+probs: end 0.252
+probs: end 0.359
+probs: end 0.067
+probs: end 0.006
+probs: end 0.003
+probs: end 0.006
+probs: end 0.020
+
+
+Scene start: 0:01:34
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.006
+
+probs: end 0.003
+probs: end 0.019
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.009
+probs: end 0.001
+probs: end 0.029
+probs: end 0.003
+probs: end 0.003
+probs: end 0.034
+probs: end 0.005
+probs: end 0.004
+probs: end 0.003
+probs: end 0.011
+probs: end 0.006
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.010
+probs: end 0.026
+probs: end 0.004
+
+
+Scene start: 0:01:41
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.031
+
+probs: end 0.012
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.008
+probs: end 0.009
+probs: end 0.004
+probs: end 0.002
+probs: end 0.016
+probs: end 0.019
+probs: end 0.015
+probs: end 0.000
+probs: end 0.006
+probs: end 0.002
+probs: end 0.004
+probs: end 0.002
+probs: end 0.011
+probs: end 0.002
+probs: end 0.005
+probs: end 0.003
+probs: end 0.012
+probs: end 0.009
+probs: end 0.002
+probs: end 0.000
+probs: end 0.295
+probs: end 0.471
+probs: end 0.007
+probs: end 0.002
+probs: end 0.001
+
+
+Scene start: 0:01:42
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:01:43
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+
+
+Scene start: 0:01:44
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:01:48
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.004
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.058
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.014
+probs: end 0.014
+probs: end 0.025
+probs: end 0.002
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.002
+
+
+Scene start: 0:01:51
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.006
+
+probs: end 0.003
+probs: end 0.007
+probs: end 0.001
+probs: end 0.017
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.008
+probs: end 0.082
+probs: end 0.014
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.010
+probs: end 0.004
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:01:54
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.012
+
+probs: end 0.004
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.159
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.007
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.005
+probs: end 0.001
+probs: end 0.054
+probs: end 0.100
+probs: end 0.010
+probs: end 0.001
+probs: end 0.000
+probs: end 0.017
+probs: end 0.001
+
+
+Scene start: 0:01:57
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.022
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.009
+probs: end 0.055
+probs: end 0.005
+probs: end 0.072
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.003
+probs: end 0.004
+probs: end 0.313
+probs: end 0.133
+probs: end 0.007
+probs: end 0.000
+probs: end 0.001
+probs: end 0.044
+probs: end 0.002
+probs: end 0.001
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.006
+probs: end 0.000
+
+
+Scene start: 0:01:59
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.008
+
+probs: end 0.006
+probs: end 0.042
+probs: end 0.004
+probs: end 0.013
+probs: end 0.002
+probs: end 0.077
+probs: end 0.003
+probs: end 0.007
+probs: end 0.000
+probs: end 0.006
+probs: end 0.001
+probs: end 0.003
+probs: end 0.013
+probs: end 0.003
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.002
+probs: end 0.019
+probs: end 0.001
+probs: end 0.012
+probs: end 0.006
+probs: end 0.010
+probs: end 0.001
+probs: end 0.006
+probs: end 0.001
+probs: end 0.001
+probs: end 0.007
+probs: end 0.003
+probs: end 0.000
+
+
+Scene start: 0:01:59
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:02:00
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:02:02
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.037
+
+probs: end 0.000
+probs: end 0.004
+probs: end 0.001
+probs: end 0.061
+probs: end 0.003
+probs: end 0.003
+probs: end 0.004
+probs: end 0.004
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.076
+probs: end 0.096
+probs: end 0.003
+probs: end 0.245
+probs: end 0.291
+probs: end 0.009
+probs: end 0.183
+probs: end 0.037
+probs: end 0.015
+probs: end 0.005
+probs: end 0.008
+probs: end 0.000
+probs: end 0.001
+probs: end 0.046
+probs: end 0.000
+probs: end 0.006
+probs: end 0.000
+probs: end 0.001
+
+
+Scene start: 0:02:04
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:02:05
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.399
+
+probs: end 0.994
+probs: end 0.997
+probs: end 0.996
+probs: end 0.998
+probs: end 0.997
+probs: end 0.994
+probs: end 0.990
+probs: end 0.987
+probs: end 0.978
+probs: end 0.945
+probs: end 0.865
+probs: end 0.609
+probs: end 0.585
+probs: end 0.012
+probs: end 0.009
+probs: end 0.004
+probs: end 0.012
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+
+
+Scene start: 0:02:07
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.013
+
+probs: end 0.112
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.006
+probs: end 0.023
+probs: end 0.005
+probs: end 0.003
+probs: end 0.014
+probs: end 0.023
+probs: end 0.003
+probs: end 0.004
+probs: end 0.005
+probs: end 0.005
+probs: end 0.006
+probs: end 0.006
+probs: end 0.002
+probs: end 0.014
+probs: end 0.007
+probs: end 0.112
+probs: end 0.000
+probs: end 0.008
+probs: end 0.016
+probs: end 0.016
+
+
+Scene start: 0:02:12
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:02:13
+In round: False
+Mean round after: 0.813
+Mean not round after: 0.187
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.127
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:02:25
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:02:27
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.008
+
+probs: end 0.003
+probs: end 0.012
+probs: end 0.003
+probs: end 0.000
+probs: end 0.141
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.011
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.010
+probs: end 0.001
+probs: end 0.000
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.021
+probs: end 0.000
+probs: end 0.000
+probs: end 0.012
+probs: end 0.003
+probs: end 0.007
+probs: end 0.002
+probs: end 0.007
+
+
+Scene start: 0:02:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.062
+
+probs: end 0.042
+probs: end 0.038
+probs: end 0.035
+probs: end 0.011
+probs: end 0.400
+probs: end 0.160
+probs: end 0.192
+probs: end 0.000
+probs: end 0.489
+probs: end 0.018
+probs: end 0.003
+probs: end 0.024
+probs: end 0.004
+probs: end 0.004
+probs: end 0.061
+probs: end 0.207
+probs: end 0.131
+probs: end 0.003
+probs: end 0.014
+probs: end 0.006
+probs: end 0.009
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+
+
+Scene start: 0:02:32
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.009
+probs: end 0.048
+probs: end 0.015
+probs: end 0.016
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.011
+probs: end 0.009
+probs: end 0.006
+probs: end 0.004
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+probs: end 0.002
+probs: end 0.071
+probs: end 0.016
+probs: end 0.005
+probs: end 0.003
+probs: end 0.026
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+
+
+Scene start: 0:02:36
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.105
+
+probs: end 0.123
+probs: end 0.241
+probs: end 0.003
+probs: end 0.113
+probs: end 0.002
+probs: end 0.011
+probs: end 0.201
+probs: end 0.000
+probs: end 0.004
+probs: end 0.126
+probs: end 0.000
+probs: end 0.006
+probs: end 0.007
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.664
+probs: end 0.855
+probs: end 0.222
+probs: end 0.013
+probs: end 0.136
+probs: end 0.245
+probs: end 0.111
+probs: end 0.034
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.024
+
+
+Scene start: 0:02:37
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:02:38
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.039
+
+probs: end 0.089
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.006
+probs: end 0.002
+probs: end 0.001
+probs: end 0.017
+probs: end 0.024
+probs: end 0.001
+probs: end 0.007
+probs: end 0.036
+probs: end 0.112
+probs: end 0.604
+probs: end 0.010
+probs: end 0.010
+probs: end 0.011
+probs: end 0.098
+probs: end 0.043
+probs: end 0.012
+probs: end 0.015
+probs: end 0.046
+probs: end 0.004
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.017
+probs: end 0.001
+
+
+Scene start: 0:02:43
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.007
+
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.004
+probs: end 0.100
+probs: end 0.002
+probs: end 0.002
+probs: end 0.037
+probs: end 0.002
+probs: end 0.018
+probs: end 0.001
+probs: end 0.005
+probs: end 0.002
+probs: end 0.018
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.003
+
+
+Scene start: 0:02:45
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.006
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.026
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.075
+probs: end 0.001
+probs: end 0.007
+probs: end 0.003
+probs: end 0.008
+probs: end 0.000
+probs: end 0.009
+probs: end 0.021
+probs: end 0.002
+probs: end 0.008
+
+
+Scene start: 0:02:46
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.006
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.013
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:02:50
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.246
+
+probs: end 0.711
+probs: end 0.482
+probs: end 0.590
+probs: end 0.061
+probs: end 0.121
+probs: end 0.057
+probs: end 0.084
+probs: end 0.019
+probs: end 0.015
+probs: end 0.034
+probs: end 0.079
+probs: end 0.229
+probs: end 0.594
+probs: end 0.151
+probs: end 0.190
+probs: end 0.406
+probs: end 0.447
+probs: end 0.402
+probs: end 0.402
+probs: end 0.414
+probs: end 0.079
+probs: end 0.214
+probs: end 0.017
+probs: end 0.019
+probs: end 0.114
+probs: end 0.004
+probs: end 0.005
+probs: end 0.329
+probs: end 0.118
+probs: end 1.000
+
+
+Scene start: 0:02:54
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:02:55
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:03:01
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.034
+
+probs: end 0.006
+probs: end 0.006
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.033
+probs: end 0.013
+probs: end 0.037
+probs: end 0.007
+probs: end 0.007
+probs: end 0.010
+probs: end 0.034
+probs: end 0.039
+probs: end 0.021
+probs: end 0.005
+probs: end 0.003
+probs: end 0.011
+probs: end 0.037
+probs: end 0.008
+probs: end 0.103
+probs: end 0.032
+probs: end 0.013
+probs: end 0.031
+probs: end 0.184
+probs: end 0.024
+probs: end 0.001
+probs: end 0.019
+probs: end 0.001
+probs: end 0.313
+probs: end 0.011
+
+
+Scene start: 0:03:04
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.006
+
+probs: end 0.000
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.026
+probs: end 0.020
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.002
+probs: end 0.006
+probs: end 0.005
+probs: end 0.023
+probs: end 0.005
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+probs: end 0.013
+probs: end 0.001
+probs: end 0.005
+probs: end 0.008
+probs: end 0.000
+probs: end 0.008
+probs: end 0.001
+probs: end 0.033
+probs: end 0.004
+
+
+Scene start: 0:03:13
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.054
+
+probs: end 0.020
+probs: end 0.013
+probs: end 0.010
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.002
+probs: end 0.009
+probs: end 0.040
+probs: end 0.049
+probs: end 0.007
+probs: end 0.002
+probs: end 0.002
+probs: end 0.019
+probs: end 0.187
+probs: end 0.213
+probs: end 0.517
+probs: end 0.053
+probs: end 0.026
+probs: end 0.070
+probs: end 0.319
+probs: end 0.002
+probs: end 0.021
+probs: end 0.022
+
+
+Scene start: 0:03:14
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.046
+
+probs: end 0.001
+probs: end 0.117
+probs: end 0.002
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.007
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.014
+probs: end 0.580
+probs: end 0.244
+probs: end 0.054
+probs: end 0.014
+probs: end 0.156
+probs: end 0.147
+probs: end 0.002
+probs: end 0.030
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:03:17
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.011
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.182
+probs: end 0.000
+probs: end 0.041
+probs: end 0.021
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.023
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.009
+probs: end 0.001
+probs: end 0.008
+probs: end 0.000
+probs: end 0.004
+probs: end 0.013
+probs: end 0.001
+probs: end 0.020
+
+
+Scene start: 0:03:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:03:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:03:20
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.012
+
+probs: end 0.002
+probs: end 0.026
+probs: end 0.049
+probs: end 0.006
+probs: end 0.002
+probs: end 0.009
+probs: end 0.007
+probs: end 0.016
+probs: end 0.060
+probs: end 0.003
+probs: end 0.003
+probs: end 0.004
+probs: end 0.002
+probs: end 0.000
+probs: end 0.008
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.010
+probs: end 0.023
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.003
+probs: end 0.012
+probs: end 0.006
+probs: end 0.000
+probs: end 0.091
+probs: end 0.023
+
+
+Scene start: 0:03:22
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.004
+probs: end 0.184
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.003
+probs: end 0.010
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.007
+probs: end 0.043
+probs: end 0.000
+probs: end 0.009
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+
+
+Scene start: 0:03:23
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.007
+
+probs: end 0.156
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.016
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:03:27
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.026
+
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.005
+probs: end 0.006
+probs: end 0.002
+probs: end 0.004
+probs: end 0.002
+probs: end 0.003
+probs: end 0.005
+probs: end 0.002
+probs: end 0.002
+probs: end 0.007
+probs: end 0.011
+probs: end 0.624
+probs: end 0.096
+
+
+Scene start: 0:03:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:03:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:03:30
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.093
+
+probs: end 0.482
+probs: end 0.018
+probs: end 0.301
+probs: end 0.012
+probs: end 0.793
+probs: end 0.317
+probs: end 0.050
+probs: end 0.039
+probs: end 0.162
+probs: end 0.007
+probs: end 0.186
+probs: end 0.009
+probs: end 0.003
+probs: end 0.005
+probs: end 0.004
+probs: end 0.000
+probs: end 0.043
+probs: end 0.005
+probs: end 0.000
+probs: end 0.007
+probs: end 0.041
+probs: end 0.005
+probs: end 0.009
+probs: end 0.021
+probs: end 0.011
+probs: end 0.003
+probs: end 0.010
+probs: end 0.002
+probs: end 0.217
+probs: end 0.028
+
+
+Scene start: 0:03:32
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.036
+
+probs: end 0.523
+probs: end 0.012
+probs: end 0.013
+probs: end 0.082
+probs: end 0.006
+probs: end 0.002
+probs: end 0.005
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.006
+probs: end 0.002
+probs: end 0.029
+probs: end 0.037
+probs: end 0.105
+probs: end 0.030
+probs: end 0.011
+probs: end 0.002
+probs: end 0.002
+probs: end 0.008
+probs: end 0.151
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.012
+probs: end 0.013
+probs: end 0.009
+probs: end 0.004
+probs: end 0.004
+
+
+Scene start: 0:03:33
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.030
+
+probs: end 0.002
+probs: end 0.001
+probs: end 0.063
+probs: end 0.485
+probs: end 0.007
+probs: end 0.015
+probs: end 0.007
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+probs: end 0.005
+probs: end 0.008
+probs: end 0.006
+probs: end 0.005
+probs: end 0.003
+probs: end 0.007
+probs: end 0.007
+probs: end 0.001
+probs: end 0.082
+probs: end 0.002
+probs: end 0.001
+probs: end 0.169
+probs: end 0.000
+probs: end 0.002
+probs: end 0.009
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:03:39
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:04:08
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:04:11
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:04:16
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:04:17
+In round: False
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:04:24
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:04:41
+In round: False
+Mean round after: 0.900
+Mean not round after: 0.100
+Mean end before: 0.000
+
+probs: round 0.999
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 0.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:04:42
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:05:07
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.003
+
+probs: end 0.002
+probs: end 0.003
+probs: end 0.023
+probs: end 0.003
+probs: end 0.000
+probs: end 0.007
+probs: end 0.004
+probs: end 0.003
+probs: end 0.002
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.013
+probs: end 0.001
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.010
+probs: end 0.001
+probs: end 0.004
+
+
+Scene start: 0:05:23
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.093
+
+probs: end 0.020
+probs: end 0.015
+probs: end 0.037
+probs: end 0.715
+probs: end 0.278
+probs: end 0.096
+probs: end 0.029
+probs: end 0.004
+probs: end 0.002
+probs: end 0.010
+probs: end 0.001
+probs: end 0.013
+probs: end 0.004
+probs: end 0.005
+probs: end 0.012
+probs: end 0.106
+probs: end 0.382
+probs: end 0.337
+probs: end 0.040
+probs: end 0.113
+probs: end 0.012
+probs: end 0.002
+probs: end 0.097
+probs: end 0.034
+probs: end 0.002
+probs: end 0.021
+probs: end 0.010
+probs: end 0.044
+probs: end 0.285
+probs: end 0.070
+
+
+Scene start: 0:05:34
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.016
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.008
+probs: end 0.001
+probs: end 0.011
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.015
+probs: end 0.441
+probs: end 0.008
+probs: end 0.009
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:05:35
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.618
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 0.999
+probs: end 0.999
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 0.999
+probs: end 0.785
+probs: end 0.909
+probs: end 0.005
+probs: end 0.009
+probs: end 0.013
+probs: end 0.018
+probs: end 0.004
+probs: end 0.037
+probs: end 0.006
+probs: end 0.029
+probs: end 0.019
+probs: end 0.114
+probs: end 0.578
+probs: end 0.010
+
+
+Scene start: 0:05:37
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.113
+
+probs: end 0.879
+probs: end 0.413
+probs: end 0.018
+probs: end 0.019
+probs: end 0.033
+probs: end 0.016
+probs: end 0.010
+probs: end 0.012
+probs: end 0.025
+probs: end 0.012
+probs: end 0.026
+probs: end 0.019
+probs: end 0.036
+probs: end 0.103
+probs: end 0.083
+probs: end 0.080
+probs: end 0.193
+probs: end 0.089
+probs: end 0.083
+probs: end 0.072
+probs: end 0.065
+probs: end 0.050
+probs: end 0.015
+probs: end 0.007
+probs: end 0.019
+probs: end 0.005
+probs: end 0.002
+probs: end 0.002
+probs: end 0.004
+probs: end 0.993
+
+
+Scene start: 0:05:41
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:05:42
+In round: False
+Mean round after: 0.900
+Mean not round after: 0.100
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.999
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:05:52
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.008
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.009
+probs: end 0.016
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.011
+probs: end 0.009
+probs: end 0.072
+probs: end 0.005
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.004
+probs: end 0.002
+probs: end 0.003
+probs: end 0.001
+probs: end 0.082
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+
+
+Scene start: 0:05:56
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.004
+probs: end 0.001
+probs: end 0.023
+probs: end 0.011
+probs: end 0.001
+probs: end 0.005
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.007
+probs: end 0.003
+probs: end 0.005
+probs: end 0.007
+probs: end 0.073
+
+
+Scene start: 0:06:02
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.011
+probs: end 0.031
+probs: end 0.007
+probs: end 0.004
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.005
+probs: end 0.014
+probs: end 0.003
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.004
+probs: end 0.003
+probs: end 0.003
+probs: end 0.003
+probs: end 0.055
+
+
+Scene start: 0:06:09
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.004
+probs: end 0.002
+probs: end 0.004
+probs: end 0.006
+probs: end 0.001
+probs: end 0.000
+probs: end 0.035
+probs: end 0.003
+probs: end 0.005
+probs: end 0.033
+probs: end 0.011
+probs: end 0.006
+probs: end 0.000
+probs: end 0.000
+probs: end 0.126
+probs: end 0.012
+probs: end 0.004
+probs: end 0.002
+
+
+Scene start: 0:06:10
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.610
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 0.998
+probs: end 0.999
+probs: end 0.999
+probs: end 0.997
+probs: end 0.998
+probs: end 0.993
+probs: end 0.996
+probs: end 0.998
+probs: end 0.999
+probs: end 0.999
+probs: end 0.999
+probs: end 0.997
+probs: end 0.998
+probs: end 0.993
+probs: end 0.131
+probs: end 0.158
+probs: end 0.001
+probs: end 0.011
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.004
+probs: end 0.001
+probs: end 0.007
+probs: end 0.025
+probs: end 0.010
+
+
+Scene start: 0:06:13
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.050
+
+probs: end 0.241
+probs: end 0.004
+probs: end 0.008
+probs: end 0.005
+probs: end 0.003
+probs: end 0.003
+probs: end 0.002
+probs: end 0.003
+probs: end 0.003
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.010
+probs: end 0.006
+probs: end 0.007
+probs: end 0.007
+probs: end 0.006
+probs: end 0.006
+probs: end 0.015
+probs: end 0.009
+probs: end 0.155
+probs: end 0.040
+probs: end 0.031
+probs: end 0.011
+probs: end 0.086
+probs: end 0.816
+
+
+Scene start: 0:06:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:06:18
+In round: False
+Mean round after: 0.899
+Mean not round after: 0.101
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.987
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:06:22
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.088
+
+probs: end 0.211
+probs: end 0.156
+probs: end 0.072
+probs: end 0.061
+probs: end 0.059
+probs: end 0.003
+probs: end 0.004
+probs: end 0.005
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.010
+probs: end 0.034
+probs: end 0.012
+probs: end 0.029
+probs: end 0.033
+probs: end 0.019
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.005
+probs: end 0.007
+probs: end 0.002
+probs: end 0.005
+probs: end 0.085
+probs: end 0.813
+probs: end 0.989
+
+
+Scene start: 0:06:25
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.019
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.003
+probs: end 0.008
+probs: end 0.000
+
+
+Scene start: 0:06:26
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:06:39
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.003
+
+probs: end 0.000
+probs: end 0.022
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.007
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.007
+probs: end 0.017
+
+
+Scene start: 0:06:46
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.003
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.009
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.015
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.053
+
+
+Scene start: 0:06:46
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:06:48
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.238
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.002
+probs: end 0.007
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.004
+probs: end 0.022
+probs: end 0.010
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.093
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:06:49
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:06:50
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:06:52
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:06:56
+In round: False
+Mean round after: 0.900
+Mean not round after: 0.100
+Mean end before: 0.000
+
+probs: round 0.997
+probs: round 0.999
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 0.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:06:57
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:07:06
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.070
+probs: end 0.015
+probs: end 0.005
+probs: end 0.061
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.028
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.010
+probs: end 0.016
+probs: end 0.005
+probs: end 0.029
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:07:17
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.010
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.006
+probs: end 0.032
+probs: end 0.045
+probs: end 0.015
+probs: end 0.001
+probs: end 0.000
+probs: end 0.007
+probs: end 0.022
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.008
+probs: end 0.076
+probs: end 0.002
+probs: end 0.002
+probs: end 0.009
+probs: end 0.010
+probs: end 0.001
+probs: end 0.033
+probs: end 0.026
+probs: end 0.003
+
+
+Scene start: 0:07:19
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.051
+
+probs: end 0.005
+probs: end 0.001
+probs: end 0.003
+probs: end 0.003
+probs: end 0.002
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.064
+probs: end 0.996
+probs: end 0.048
+probs: end 0.222
+probs: end 0.014
+probs: end 0.017
+probs: end 0.142
+probs: end 0.001
+
+
+Scene start: 0:07:20
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.026
+
+probs: end 0.005
+probs: end 0.003
+probs: end 0.008
+probs: end 0.013
+probs: end 0.007
+probs: end 0.005
+probs: end 0.006
+probs: end 0.006
+probs: end 0.004
+probs: end 0.002
+probs: end 0.009
+probs: end 0.001
+probs: end 0.035
+probs: end 0.050
+probs: end 0.097
+probs: end 0.093
+probs: end 0.090
+probs: end 0.138
+probs: end 0.048
+probs: end 0.007
+probs: end 0.003
+probs: end 0.005
+probs: end 0.011
+probs: end 0.015
+probs: end 0.020
+probs: end 0.021
+probs: end 0.016
+probs: end 0.048
+probs: end 0.013
+probs: end 0.003
+
+
+Scene start: 0:07:22
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.141
+
+probs: end 0.649
+probs: end 0.009
+probs: end 0.016
+probs: end 0.055
+probs: end 0.243
+probs: end 0.001
+probs: end 0.341
+probs: end 0.185
+probs: end 0.075
+probs: end 0.123
+probs: end 0.120
+probs: end 0.077
+probs: end 0.001
+probs: end 0.009
+probs: end 0.000
+probs: end 0.005
+probs: end 0.001
+probs: end 0.036
+probs: end 0.473
+probs: end 0.011
+probs: end 0.130
+probs: end 0.021
+probs: end 0.068
+probs: end 0.077
+probs: end 0.205
+probs: end 0.028
+probs: end 0.204
+probs: end 0.174
+probs: end 0.372
+probs: end 0.513
+
+
+Scene start: 0:07:24
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.157
+
+probs: end 0.105
+probs: end 0.048
+probs: end 0.032
+probs: end 0.040
+probs: end 0.327
+probs: end 0.708
+probs: end 0.804
+probs: end 0.589
+probs: end 0.817
+probs: end 0.317
+probs: end 0.238
+probs: end 0.347
+probs: end 0.002
+probs: end 0.005
+probs: end 0.105
+probs: end 0.010
+probs: end 0.002
+probs: end 0.116
+probs: end 0.006
+probs: end 0.002
+probs: end 0.001
+probs: end 0.021
+probs: end 0.029
+probs: end 0.002
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.012
+probs: end 0.008
+probs: end 0.001
+
+
+Scene start: 0:07:27
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.011
+
+probs: end 0.001
+probs: end 0.171
+probs: end 0.010
+probs: end 0.048
+probs: end 0.001
+probs: end 0.002
+probs: end 0.003
+probs: end 0.005
+probs: end 0.001
+probs: end 0.013
+probs: end 0.003
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.002
+probs: end 0.008
+probs: end 0.004
+probs: end 0.009
+probs: end 0.006
+probs: end 0.001
+probs: end 0.005
+probs: end 0.002
+probs: end 0.005
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.014
+probs: end 0.013
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:07:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:07:42
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.012
+
+probs: end 0.003
+probs: end 0.001
+probs: end 0.022
+probs: end 0.014
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.003
+probs: end 0.028
+probs: end 0.003
+probs: end 0.002
+probs: end 0.003
+probs: end 0.022
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.007
+probs: end 0.000
+probs: end 0.016
+probs: end 0.000
+probs: end 0.008
+probs: end 0.002
+probs: end 0.002
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.212
+probs: end 0.003
+
+
+Scene start: 0:07:45
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.025
+
+probs: end 0.035
+probs: end 0.010
+probs: end 0.000
+probs: end 0.003
+probs: end 0.013
+probs: end 0.003
+probs: end 0.003
+probs: end 0.002
+probs: end 0.022
+probs: end 0.035
+probs: end 0.024
+probs: end 0.019
+probs: end 0.113
+probs: end 0.023
+probs: end 0.010
+probs: end 0.006
+probs: end 0.013
+probs: end 0.024
+probs: end 0.001
+probs: end 0.008
+probs: end 0.013
+probs: end 0.027
+probs: end 0.053
+probs: end 0.026
+probs: end 0.006
+probs: end 0.004
+probs: end 0.036
+probs: end 0.029
+probs: end 0.199
+probs: end 0.003
+
+
+Scene start: 0:07:48
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:08:06
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:08:57
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:09:02
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:09:29
+In round: False
+Mean round after: 0.800
+Mean not round after: 0.200
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:09:32
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:09:39
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.019
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.013
+probs: end 0.001
+probs: end 0.002
+probs: end 0.005
+probs: end 0.000
+probs: end 0.435
+probs: end 0.032
+probs: end 0.003
+probs: end 0.013
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.007
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.027
+probs: end 0.001
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+
+
+Scene start: 0:09:41
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.021
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.010
+probs: end 0.001
+probs: end 0.002
+probs: end 0.035
+probs: end 0.034
+probs: end 0.247
+probs: end 0.003
+probs: end 0.003
+probs: end 0.212
+probs: end 0.004
+probs: end 0.007
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.072
+probs: end 0.003
+
+
+Scene start: 0:09:51
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.069
+
+probs: end 0.001
+probs: end 0.013
+probs: end 0.007
+probs: end 0.004
+probs: end 0.350
+probs: end 0.201
+probs: end 0.006
+probs: end 0.005
+probs: end 0.005
+probs: end 0.003
+probs: end 0.000
+probs: end 0.080
+probs: end 0.009
+probs: end 0.012
+probs: end 0.006
+probs: end 0.016
+probs: end 0.012
+probs: end 0.000
+probs: end 0.034
+probs: end 0.001
+probs: end 0.018
+probs: end 0.822
+probs: end 0.054
+probs: end 0.067
+probs: end 0.006
+probs: end 0.019
+probs: end 0.045
+probs: end 0.069
+probs: end 0.066
+probs: end 0.140
+
+
+Scene start: 0:09:54
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.009
+probs: end 0.013
+probs: end 0.010
+probs: end 0.009
+probs: end 0.033
+probs: end 0.020
+probs: end 0.015
+probs: end 0.019
+probs: end 0.004
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+
+
+Scene start: 0:10:03
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.012
+
+probs: end 0.042
+probs: end 0.006
+probs: end 0.005
+probs: end 0.009
+probs: end 0.042
+probs: end 0.034
+probs: end 0.009
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.081
+probs: end 0.025
+probs: end 0.046
+probs: end 0.022
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.031
+probs: end 0.002
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:10:03
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:10:05
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.011
+probs: end 0.008
+probs: end 0.000
+probs: end 0.004
+probs: end 0.011
+probs: end 0.010
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.007
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.008
+probs: end 0.086
+
+
+Scene start: 0:10:05
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:10:08
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.006
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+
+
+Scene start: 0:10:08
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:10:09
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.004
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.018
+probs: end 0.074
+probs: end 0.017
+probs: end 0.004
+probs: end 0.000
+
+
+Scene start: 0:10:14
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:10:19
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.020
+probs: end 0.003
+probs: end 0.033
+probs: end 0.005
+probs: end 0.002
+probs: end 0.002
+probs: end 0.016
+probs: end 0.016
+probs: end 0.013
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.023
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:10:26
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.053
+
+probs: end 0.000
+probs: end 0.004
+probs: end 0.001
+probs: end 0.036
+probs: end 0.038
+probs: end 0.001
+probs: end 0.000
+probs: end 0.026
+probs: end 0.004
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.050
+probs: end 0.226
+probs: end 0.014
+probs: end 0.070
+probs: end 0.002
+probs: end 0.006
+probs: end 0.684
+probs: end 0.277
+probs: end 0.002
+probs: end 0.108
+probs: end 0.005
+probs: end 0.003
+probs: end 0.001
+probs: end 0.012
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+
+
+Scene start: 0:10:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.112
+
+probs: end 0.003
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.009
+probs: end 0.001
+probs: end 0.100
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.016
+probs: end 0.001
+probs: end 0.005
+probs: end 0.001
+probs: end 0.023
+probs: end 0.035
+probs: end 0.848
+probs: end 0.547
+probs: end 0.180
+probs: end 0.039
+probs: end 0.047
+probs: end 0.727
+probs: end 0.003
+probs: end 0.480
+probs: end 0.195
+probs: end 0.006
+probs: end 0.000
+probs: end 0.043
+probs: end 0.040
+
+
+Scene start: 0:10:33
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.068
+
+probs: end 0.026
+probs: end 0.004
+probs: end 0.041
+probs: end 0.044
+probs: end 0.635
+probs: end 0.107
+probs: end 0.122
+probs: end 0.195
+probs: end 0.024
+probs: end 0.034
+probs: end 0.087
+probs: end 0.012
+probs: end 0.011
+probs: end 0.088
+probs: end 0.461
+probs: end 0.028
+probs: end 0.036
+probs: end 0.008
+probs: end 0.000
+probs: end 0.019
+probs: end 0.000
+probs: end 0.006
+probs: end 0.031
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.019
+probs: end 0.000
+
+
+Scene start: 0:10:34
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:10:35
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.002
+probs: end 0.004
+probs: end 0.009
+probs: end 0.010
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.008
+probs: end 0.000
+probs: end 0.001
+probs: end 0.008
+probs: end 0.045
+probs: end 0.011
+probs: end 0.006
+probs: end 0.002
+probs: end 0.026
+probs: end 0.000
+probs: end 0.005
+probs: end 0.009
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.004
+
+
+Scene start: 0:10:36
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.003
+
+probs: end 0.000
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.005
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.004
+probs: end 0.003
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.008
+probs: end 0.005
+probs: end 0.002
+probs: end 0.003
+probs: end 0.042
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+
+
+Scene start: 0:10:40
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.241
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.029
+probs: end 0.009
+probs: end 0.019
+probs: end 0.011
+probs: end 0.023
+probs: end 0.002
+probs: end 0.024
+probs: end 0.004
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.029
+probs: end 0.069
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:10:41
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:10:42
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:10:44
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:10:49
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:10:49
+In round: False
+Mean round after: 0.800
+Mean not round after: 0.200
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:10:57
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:10:57
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:11:00
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.015
+
+probs: end 0.016
+probs: end 0.004
+probs: end 0.047
+probs: end 0.029
+probs: end 0.019
+probs: end 0.000
+probs: end 0.000
+probs: end 0.024
+probs: end 0.039
+probs: end 0.011
+probs: end 0.019
+probs: end 0.002
+probs: end 0.025
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.215
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:11:03
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.017
+
+probs: end 0.040
+probs: end 0.145
+probs: end 0.007
+probs: end 0.003
+probs: end 0.001
+probs: end 0.001
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.024
+probs: end 0.007
+probs: end 0.003
+probs: end 0.001
+probs: end 0.037
+probs: end 0.007
+probs: end 0.036
+probs: end 0.004
+probs: end 0.012
+probs: end 0.001
+probs: end 0.034
+probs: end 0.039
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.062
+probs: end 0.000
+probs: end 0.028
+probs: end 0.000
+
+
+Scene start: 0:11:10
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.016
+
+probs: end 0.006
+probs: end 0.009
+probs: end 0.037
+probs: end 0.007
+probs: end 0.035
+probs: end 0.039
+probs: end 0.055
+probs: end 0.084
+probs: end 0.029
+probs: end 0.000
+probs: end 0.036
+probs: end 0.033
+probs: end 0.003
+probs: end 0.002
+probs: end 0.001
+probs: end 0.003
+probs: end 0.005
+probs: end 0.005
+probs: end 0.003
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.038
+probs: end 0.029
+probs: end 0.001
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:12
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.001
+probs: end 0.068
+probs: end 0.006
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.014
+probs: end 0.020
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.010
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.007
+probs: end 0.001
+probs: end 0.006
+probs: end 0.028
+probs: end 0.035
+probs: end 0.007
+probs: end 0.029
+probs: end 0.005
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:14
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.008
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.157
+probs: end 0.006
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.006
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.046
+probs: end 0.007
+
+
+Scene start: 0:11:15
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.011
+
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.001
+probs: end 0.009
+probs: end 0.004
+probs: end 0.084
+probs: end 0.005
+probs: end 0.008
+probs: end 0.102
+probs: end 0.009
+probs: end 0.011
+probs: end 0.021
+probs: end 0.018
+probs: end 0.002
+probs: end 0.030
+probs: end 0.000
+probs: end 0.019
+
+
+Scene start: 0:11:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.021
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.005
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.009
+probs: end 0.110
+probs: end 0.012
+probs: end 0.160
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.320
+
+
+Scene start: 0:11:19
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.823
+
+probs: end 0.999
+probs: end 1.000
+probs: end 0.984
+probs: end 0.991
+probs: end 0.974
+probs: end 0.984
+probs: end 0.996
+probs: end 0.991
+probs: end 0.993
+probs: end 0.994
+probs: end 0.991
+probs: end 0.996
+probs: end 0.998
+probs: end 0.998
+probs: end 0.999
+probs: end 0.998
+probs: end 0.998
+probs: end 0.998
+probs: end 0.999
+probs: end 0.998
+probs: end 0.999
+probs: end 0.999
+probs: end 0.904
+probs: end 0.659
+probs: end 0.958
+probs: end 0.266
+probs: end 0.002
+probs: end 0.022
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:11:21
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:11:27
+In round: False
+Mean round after: 0.900
+Mean not round after: 0.100
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 0.000
+probs: round 1.000
+
+
+Scene start: 0:11:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:11:31
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.035
+
+probs: end 0.002
+probs: end 0.001
+probs: end 0.004
+probs: end 0.005
+probs: end 0.004
+probs: end 0.004
+probs: end 0.004
+probs: end 0.004
+probs: end 0.004
+probs: end 0.003
+probs: end 0.013
+probs: end 0.003
+probs: end 0.005
+probs: end 0.003
+probs: end 0.001
+probs: end 0.014
+probs: end 0.007
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.005
+probs: end 0.947
+
+
+Scene start: 0:11:36
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+probs: end 0.007
+probs: end 0.015
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.006
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:39
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.020
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:45
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.011
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:48
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.025
+probs: end 0.011
+probs: end 0.041
+probs: end 0.001
+probs: end 0.051
+probs: end 0.004
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:11:50
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.004
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:11:50
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:11:56
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.002
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.004
+probs: end 0.006
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.002
+probs: end 0.005
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.005
+probs: end 0.009
+probs: end 0.015
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.005
+probs: end 0.001
+
+
+Scene start: 0:11:57
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:12:01
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:12:13
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.002
+
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.030
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.002
+probs: end 0.004
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.018
+
+
+Scene start: 0:12:14
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:12:15
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:12:18
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:12:19
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.004
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.016
+probs: end 0.014
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.004
+probs: end 0.075
+
+
+Scene start: 0:12:21
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.703
+
+probs: end 0.998
+probs: end 0.999
+probs: end 0.998
+probs: end 0.996
+probs: end 0.998
+probs: end 0.999
+probs: end 0.999
+probs: end 0.997
+probs: end 0.995
+probs: end 0.999
+probs: end 0.998
+probs: end 0.998
+probs: end 0.998
+probs: end 1.000
+probs: end 1.000
+probs: end 0.999
+probs: end 0.999
+probs: end 1.000
+probs: end 1.000
+probs: end 0.383
+probs: end 0.542
+probs: end 0.587
+probs: end 0.028
+probs: end 0.000
+probs: end 0.037
+probs: end 0.250
+probs: end 0.214
+probs: end 0.023
+probs: end 0.042
+probs: end 0.001
+
+
+Scene start: 0:12:23
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.108
+
+probs: end 0.013
+probs: end 0.020
+probs: end 0.010
+probs: end 0.025
+probs: end 0.039
+probs: end 0.019
+probs: end 0.036
+probs: end 0.028
+probs: end 0.046
+probs: end 0.151
+probs: end 0.068
+probs: end 0.025
+probs: end 0.033
+probs: end 0.023
+probs: end 0.042
+probs: end 0.100
+probs: end 0.081
+probs: end 0.072
+probs: end 0.079
+probs: end 0.078
+probs: end 0.075
+probs: end 0.226
+probs: end 0.433
+probs: end 0.496
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.032
+probs: end 1.000
+
+
+Scene start: 0:12:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:12:29
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:12:34
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.029
+
+probs: end 0.016
+probs: end 0.026
+probs: end 0.020
+probs: end 0.130
+probs: end 0.003
+probs: end 0.094
+probs: end 0.292
+probs: end 0.041
+probs: end 0.072
+probs: end 0.084
+probs: end 0.013
+probs: end 0.023
+probs: end 0.018
+probs: end 0.007
+probs: end 0.013
+probs: end 0.003
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+
+
+Scene start: 0:12:40
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.002
+
+probs: end 0.001
+probs: end 0.005
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.021
+probs: end 0.001
+probs: end 0.003
+probs: end 0.001
+probs: end 0.001
+probs: end 0.006
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+
+
+Scene start: 0:12:40
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:12:46
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.014
+
+probs: end 0.004
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.006
+probs: end 0.001
+probs: end 0.007
+probs: end 0.000
+probs: end 0.007
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.012
+probs: end 0.034
+probs: end 0.015
+probs: end 0.210
+probs: end 0.006
+probs: end 0.018
+probs: end 0.004
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.078
+
+
+Scene start: 0:12:47
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.880
+
+probs: end 0.214
+probs: end 0.939
+probs: end 0.914
+probs: end 0.854
+probs: end 0.649
+probs: end 0.922
+probs: end 0.994
+probs: end 1.000
+probs: end 0.996
+probs: end 0.994
+probs: end 0.998
+probs: end 0.992
+probs: end 0.995
+probs: end 0.996
+probs: end 0.993
+probs: end 0.974
+probs: end 0.990
+probs: end 0.987
+probs: end 0.985
+probs: end 0.981
+probs: end 0.990
+probs: end 0.991
+probs: end 0.997
+probs: end 0.992
+probs: end 0.996
+probs: end 0.994
+probs: end 0.967
+probs: end 0.794
+probs: end 0.320
+probs: end 0.000
+
+
+Scene start: 0:12:48
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:12:50
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:12:55
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.985
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 0.552
+
+
+Scene start: 0:12:55
+In round: False
+Mean round after: 0.800
+Mean not round after: 0.200
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:12:59
+In round: False
+Mean round after: 1.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+
+
+Scene start: 0:13:00
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:01
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:03
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.001
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.003
+probs: end 0.002
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:04
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:06
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.003
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.071
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:09
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.130
+probs: end 0.000
+probs: end 0.006
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.004
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:10
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.034
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.017
+probs: end 0.002
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.005
+probs: end 0.011
+probs: end 0.005
+probs: end 0.000
+probs: end 0.032
+probs: end 0.049
+probs: end 0.278
+probs: end 0.198
+probs: end 0.130
+probs: end 0.038
+probs: end 0.002
+probs: end 0.001
+probs: end 0.251
+
+
+Scene start: 0:13:11
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:14
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.017
+
+probs: end 0.003
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.007
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.117
+probs: end 0.013
+probs: end 0.019
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.030
+probs: end 0.002
+probs: end 0.000
+probs: end 0.002
+probs: end 0.009
+probs: end 0.006
+probs: end 0.030
+probs: end 0.117
+probs: end 0.097
+probs: end 0.025
+probs: end 0.017
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:20
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.065
+
+probs: end 0.075
+probs: end 0.333
+probs: end 0.048
+probs: end 0.018
+probs: end 0.136
+probs: end 0.004
+probs: end 0.082
+probs: end 0.079
+probs: end 0.149
+probs: end 0.182
+probs: end 0.455
+probs: end 0.272
+probs: end 0.024
+probs: end 0.012
+probs: end 0.013
+probs: end 0.001
+probs: end 0.000
+probs: end 0.008
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.017
+probs: end 0.000
+probs: end 0.009
+probs: end 0.003
+probs: end 0.000
+probs: end 0.004
+probs: end 0.036
+probs: end 0.001
+
+
+Scene start: 0:13:24
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.028
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.070
+probs: end 0.006
+probs: end 0.073
+probs: end 0.046
+probs: end 0.026
+probs: end 0.000
+
+
+Scene start: 0:13:27
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.005
+
+probs: end 0.010
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.006
+probs: end 0.017
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.017
+probs: end 0.001
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.011
+probs: end 0.027
+probs: end 0.033
+
+
+Scene start: 0:13:28
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:29
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.007
+
+probs: end 0.000
+probs: end 0.014
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.006
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.003
+probs: end 0.000
+probs: end 0.000
+probs: end 0.021
+probs: end 0.157
+probs: end 0.003
+probs: end 0.009
+probs: end 0.000
+
+
+Scene start: 0:13:30
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.009
+
+probs: end 0.010
+probs: end 0.008
+probs: end 0.007
+probs: end 0.008
+probs: end 0.002
+probs: end 0.005
+probs: end 0.002
+probs: end 0.003
+probs: end 0.002
+probs: end 0.001
+probs: end 0.030
+probs: end 0.004
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.002
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.015
+probs: end 0.003
+probs: end 0.001
+probs: end 0.046
+probs: end 0.107
+probs: end 0.002
+probs: end 0.002
+probs: end 0.005
+probs: end 0.002
+probs: end 0.000
+
+
+Scene start: 0:13:31
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.006
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:32
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:33
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:40
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.153
+
+probs: end 0.352
+probs: end 0.060
+probs: end 0.160
+probs: end 0.300
+probs: end 0.025
+probs: end 0.179
+probs: end 0.012
+probs: end 0.034
+probs: end 0.031
+probs: end 0.015
+probs: end 0.304
+probs: end 0.334
+probs: end 0.035
+probs: end 0.156
+probs: end 0.048
+probs: end 0.011
+probs: end 0.008
+probs: end 0.031
+probs: end 0.010
+probs: end 0.156
+probs: end 0.686
+probs: end 0.524
+probs: end 0.799
+probs: end 0.050
+probs: end 0.013
+probs: end 0.007
+probs: end 0.047
+probs: end 0.114
+probs: end 0.081
+probs: end 0.010
+
+
+Scene start: 0:13:42
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:44
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.000
+probs: end 0.000
+probs: end 0.002
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:45
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.004
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+
+
+Scene start: 0:13:49
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.013
+
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 0.001
+probs: end 0.001
+probs: end 0.001
+probs: end 0.075
+probs: end 0.002
+probs: end 0.041
+probs: end 0.048
+probs: end 0.024
+probs: end 0.014
+probs: end 0.013
+probs: end 0.023
+probs: end 0.010
+probs: end 0.002
+probs: end 0.008
+probs: end 0.012
+probs: end 0.001
+probs: end 0.003
+probs: end 0.004
+probs: end 0.001
+probs: end 0.001
+probs: end 0.000
+probs: end 0.012
+probs: end 0.001
+probs: end 0.078
+probs: end 0.000
+
+
+Scene start: 0:13:52
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.433
+
+probs: end 0.005
+probs: end 0.002
+probs: end 0.001
+probs: end 0.000
+probs: end 0.003
+probs: end 0.001
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.000
+probs: end 0.001
+probs: end 0.000
+probs: end 1.000
+probs: end 0.996
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 0.997
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:13:53
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:13:54
+In round: True
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 1.000
+
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+probs: end 1.000
+
+
+Scene start: 0:13:59
+In round: False
+Mean round after: 0.670
+Mean not round after: 0.330
+Mean end before: 0.000
+
+probs: round 0.997
+probs: round 0.999
+probs: round 0.994
+probs: round 0.772
+probs: round 0.960
+probs: round 0.016
+probs: round 0.411
+probs: round 0.497
+probs: round 0.150
+probs: round 0.908
+
+
+Scene start: 0:14:01
+In round: False
+Mean round after: 0.401
+Mean not round after: 0.599
+Mean end before: 0.000
+
+probs: round 0.017
+probs: round 0.050
+probs: round 0.886
+probs: round 0.537
+probs: round 0.763
+probs: round 0.663
+probs: round 0.361
+probs: round 0.191
+probs: round 0.225
+probs: round 0.313
+
+
+Scene start: 0:14:02
+In round: False
+Mean round after: 0.597
+Mean not round after: 0.403
+Mean end before: 0.000
+
+probs: round 0.919
+probs: round 0.443
+probs: round 0.551
+probs: round 0.100
+probs: round 0.998
+probs: round 0.960
+probs: round 0.112
+probs: round 0.481
+probs: round 0.412
+probs: round 0.995
+
+
+Scene start: 0:14:03
+In round: False
+Mean round after: 0.000
+Mean not round after: 0.000
+Mean end before: 0.000
+
+
+
+Scene start: 0:14:29
+In round: False
+Mean round after: 0.000
+Mean not round after: 1.000
+Mean end before: 0.000
+
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+probs: round 0.000
+
+
+Scene start: 0:14:31
+In round: False
+Mean round after: 0.899
+Mean not round after: 0.101
+Mean end before: 0.000
+
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
+probs: round 1.000
